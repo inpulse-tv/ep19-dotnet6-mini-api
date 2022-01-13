@@ -14,6 +14,9 @@ Chaque API pourra être consommée par un site web contenu dans le projet [Fulls
 Pour comprendre le contenu de chaque projet il vous suffit de suivre les instructions de l'épisode sur notre chaîne [inpulse.tv](https://www.inpulse.tv).
 
 ## Installation et exécution
+
+### API
+
 Pour télécharger et lancer les API de l'épisode il vous faut d'abord cloner la solution sur votre poste en lançant la commande suivante dans un terminal Bash ou Powershell depuis le dossier de destination :
 ```bash
 git clone https://github.com/inpulse-tv/epX-dotnet6-mini-api.git
