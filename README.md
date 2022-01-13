@@ -6,10 +6,10 @@ Ce dépôt contient le code source relatif à l'épisode X de notre chaîne [inp
 Il contient le code source permettant de réaliser et suivre le tutoriel de la vidéo. Celle-ci propose de réaliser une API sur le même modèle que celle disponible dans notre épisode dédié à **Node.js** : [Fullstack with Node.js  - [NodeJS partie.3]  [1ntro]  [#devtech]  [ep.17]](https://www.youtube.com/watch?v=BJNoyVIdsdw)
 
 Le contenu du dépôt se partage en deux projets :
-- Un projet ``mini-api`` proposant une API s'appuyant sur les principes amenés avec ASP.NET Core MVC et les nouvelles fonctionnalités de C# 10.
+- Un projet ``mini-api`` proposant une API s'appuyant sur les principes amenés avec **ASP.NET Core MVC** et les nouvelles fonctionnalités de **C# 10**.
 - Un projet ``macro-api`` proposant une version plus allégée de l'API ``mini-api`` et plus proche de ce que l'on trouve sous **Node.js**.
 
-Chaque API pourra être consommée par un site web contenu dans le projet [Fullstack with Node.js](https://github.com/inpulse-tv/ep17-Fullstack-with-NodeJS). Le projet propose une application Web basée sur celle proposée depuis l'adresse [sandwichpouletmayonnaise.com](https://sandwichpouletmayonnaise.com/)
+Chaque API pourra être consommée par un site web contenu dans le projet [Fullstack with Node.js](https://github.com/inpulse-tv/ep17-Fullstack-with-NodeJS). Le projet propose une application Web basée sur celle disponible depuis l'adresse [sandwichpouletmayonnaise.com](https://sandwichpouletmayonnaise.com/)
 
 Pour comprendre le contenu de chaque projet il vous suffit de suivre les instructions de l'épisode sur notre chaîne [inpulse.tv](https://www.inpulse.tv).
 
