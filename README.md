@@ -21,7 +21,7 @@ Pour télécharger et lancer les API de l'épisode il vous faut d'abord cloner l
 ```bash
 git clone https://github.com/inpulse-tv/epX-dotnet6-mini-api.git
 ```
-Pour exécuter les API il vous faut au préalable une version du [SDK .NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) d'intallé sur votre poste. Ensuite il suffit de lancer la commande Shell suivante à la racine du projet d'API qui vous intéresse.
+Pour exécuter les API il vous faut au préalable une version du [SDK .NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) d'intallée sur votre poste. Ensuite il suffit de lancer la commande Shell suivante à la racine du projet d'API qui vous intéresse.
 ```bash
 dotnet run
 ```
