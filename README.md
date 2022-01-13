@@ -25,7 +25,7 @@ dotnet run
 Vous aurez une API consultable en local sur le port 8000 via l'URL : http://localhost:8000.
 L'API ne propose qu'un seul endpoint : ``api/entreesdujour``
 
-Les sources du site web [sandwichpouletmayonnaise.com](https://sandwichpouletmayonnaise.com/) permettant de consommer les API sont disponibles sur le dépôt Git suivante : https://github.com/inpulse-tv/ep17-Fullstack-with-NodeJS
+Les sources du site web [sandwichpouletmayonnaise.com](https://sandwichpouletmayonnaise.com/) permettant de consommer les API sont disponibles sur le dépôt Git suivant : https://github.com/inpulse-tv/ep17-Fullstack-with-NodeJS
 Veuillez suivre les instructions d'installation de ce projet pour lancer dans votre navigateur le site via l'adresse : http://localhost:9000 (Ne nous tenez pas rigueur du design 😃 )
 
 ### Base de données
