@@ -1,7 +1,7 @@
 # Mini API sous .NET 6
 
 Ce dépôt contient le code source relatif à l'épisode X de notre chaîne [inpulse.tv](https://www.inpulse.tv) dédié au développement d'API sous le **Framework .NET 6** de Microsoft :
-- [Mini API avec .NET 6 - [1ntro] [#devtech] [ep.X]] (Episode bientôt disponible)
+- [Mini API avec .NET 6 - [1ntro] [#devtech] [ep.19]](https://www.youtube.com/watch?v=a887F3Bs24U)
 
 Il contient le code source permettant de réaliser et suivre le tutoriel de la vidéo. Celle-ci propose de réaliser une API sur le même modèle que celle disponible dans notre épisode dédié à **Node.js** : [Fullstack with Node.js  - [NodeJS partie.3]  [1ntro]  [#devtech]  [ep.17]](https://www.youtube.com/watch?v=BJNoyVIdsdw)
 
